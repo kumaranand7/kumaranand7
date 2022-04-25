@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Anand Kumar Gupta<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <img width="300" height="200" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498">
+  <img width="300" height="200" src="https://github.com/kumaranand7/kumaranand7/blob/main/cover.gif?raw=true?resize=498%2C498">
 </p>
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=kumaranand7&label=Profile%20views&color=0e75b6&style=plastic" alt="7oSkaaa" /> 
