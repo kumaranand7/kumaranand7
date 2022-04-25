@@ -1,7 +1,11 @@
 
-
 <p align="center">
   <img width="300" height="200" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498">
+</p>
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=kumaranand7&label=Profile%20views&color=0e75b6&style=plastic" alt="7oSkaaa" /> 
+	<a href = "https://commits.top/egypt.html" target="_blank">
+	
 </p>
 
 
