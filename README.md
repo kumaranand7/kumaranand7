@@ -5,7 +5,7 @@
 <img src="https://github.com/kumaranand7/kumaranand7/blob/main/Cover2%20(1).JPEG?raw=truehttps://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 50%; height:50% " />
 </div> 
 
-
+<br/>
 
 
 <p align="center"> 
@@ -26,6 +26,8 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning C,C++ and JAVA Programming
 - 💞️Improving my programming skills with the help of graduation in MCA 
+	<br/>
+	<br/>
 
   
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
@@ -40,6 +42,9 @@
 </p>
 
 
+<br/>
+<br/>
+
 
 ## 📊 Github Stats
 
@@ -51,6 +56,7 @@
     <a href="https://github.com/kumaranand7/github-readme-stats"><img alt="Anand's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kumaranand7&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
+	<br/>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumaranand7&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
