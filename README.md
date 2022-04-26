@@ -1,10 +1,11 @@
 
 	
-	
-<img src="https://github.com/kumaranand7/kumaranand7/blob/main/Cover2%20(1).JPEG?raw=truehttps://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
-</div> 
-<h1 align="center">Hi , I'm Anand Kumar Gupta<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Anand Kumar Gupta<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>	
 <div align="center">
+<img src="https://github.com/kumaranand7/kumaranand7/blob/main/Cover2%20(1).JPEG?raw=truehttps://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 50%; height:50% " />
+</div> 
+
+
 
 
 <p align="center"> 
@@ -16,7 +17,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/kumaranand7/kumaranand7/blob/main/cover.gif">
+  <img align="right" height="260" width="350" alt="GIF" src="https://github.com/kumaranand7/kumaranand7/blob/main/cover.gif">
 </a>
 
 ### <i>About</i>
