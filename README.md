@@ -17,7 +17,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <a target="_blank">
-  <img align="right" height="260" width="350" alt="GIF" src="https://github.com/kumaranand7/kumaranand7/blob/main/cover.gif">
+  <img align="right" height="160" width="250" alt="GIF" src="https://github.com/kumaranand7/kumaranand7/blob/main/cover.gif">
 </a>
 
 ### <i>About</i>
