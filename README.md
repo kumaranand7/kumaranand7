@@ -1,7 +1,11 @@
 <h1 align="center">Hi , I'm Anand Kumar Gupta<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <img width="300" height="200" src="https://github.com/kumaranand7/kumaranand7/blob/main/cover.gif?raw=true?resize=498%2C498">
-</p>
+<div align="center">
+	
+	
+<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
+</div>   
+
+
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=kumaranand7&label=Profile%20views&color=0e75b6&style=plastic" alt="7oSkaaa" /> 
 	<a href = "https://commits.top/egypt.html" target="_blank">
@@ -10,6 +14,10 @@
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/kumaranand7/kumaranand7/blob/main/cover.gif">
+</a>
+
 ### <i>About</i>
 
 - 👋 Hi, I’m Anand Kumar Gupta
