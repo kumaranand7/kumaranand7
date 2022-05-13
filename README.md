@@ -1,6 +1,14 @@
 
+<h1 align="center">
+  <a target="_blank">
+    <img src="https://github.com/Angryl/GitHub-tutorials/blob/main/gif/Earth.gif" width="24px" style="max-width:100%;">
+  </a>
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
+  <a target="_blank">
+    <img src="https://github.com/Angryl/GitHub-tutorials/blob/main/gif/Hi.gif" width="40px" />
+  </a>
+</h1>
 	
-<h1 align="center">Hello! , I'm Anand Kumar Gupta<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>	
 <div align="center">
 <img src="https://github.com/kumaranand7/kumaranand7/blob/main/Cover2%20(1).JPEG?raw=truehttps://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 50%; height:50% " />
 </div> 
