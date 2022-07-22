@@ -1,12 +1,12 @@
 
 <h1 align="center">
-<!--   <a target="_blank">
+  <a target="_blank">
     <img src="https://github.com/Angryl/GitHub-tutorials/blob/main/gif/Earth.gif" width="24px" style="max-width:100%;">
-  </a> -->
+  </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
-<!--   <a target="_blank">
+  <a target="_blank">
     <img src="https://github.com/Angryl/GitHub-tutorials/blob/main/gif/Hi.gif" width="40px" />
-  </a> -->
+  </a>
 </h1>
 	
 <div align="center">
@@ -68,6 +68,7 @@
 
 ![ANAND Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=kumaranand7&custom_title=Anand%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
  
+
 
 -----
 Credits: [Anand Kumar Gupta](https://github.com/kumaranand7)
