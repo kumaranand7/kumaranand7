@@ -52,23 +52,22 @@
 
 <br/>
 <br/>
- 📊 Github Stats
 
 
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/kumaranand7/github-readme-stats"><img alt="Anand's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kumaranand7&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+
 <br/>
-  &nbsp;
-	<br/>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumaranand7&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kumaranand7&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaranand7&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
 
-
+![ANAND Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=kumaranand7&custom_title=Anand%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+ 
 
 -----
 Credits: [Anand Kumar Gupta](https://github.com/kumaranand7)
