@@ -5,7 +5,10 @@
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
   <a target="_blank">
-    <img src="https://github.com/Angryl/GitHub-tutorials/blob/main/gif/Hi.gif" width="40px" />
+   <img src="https://github.com/Angryl/GitHub-tutorials/blob/main/gif/Hi.gif" width="30px" style="max-width:100%;">
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" style="max-width:100%;">
+ 
+    
   </a>
 </h1>
 	
@@ -28,7 +31,7 @@
   <img align="right" height="160" width="250" alt="GIF" src="https://github.com/kumaranand7/kumaranand7/blob/main/cover.gif">
 </a>
 
-### <i>About</i>
+###   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40"> <i>About</i>
 
 - 👋 Hi, I’m Anand Kumar Gupta
 - 👀 I’m interested in Coding
@@ -55,7 +58,7 @@
 
 
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><b> GitHub Profile Stats</b></summary>
 
 <br/>
 <p align="left">
