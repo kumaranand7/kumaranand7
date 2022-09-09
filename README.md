@@ -68,7 +68,7 @@
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kumaranand7&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaranand7&theme=gruvbox&hide_border=true" />
   </a>
-</p>
+</p> 
 <br>
 
 ![ANAND Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=kumaranand7&custom_title=Anand%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
