@@ -7,7 +7,7 @@
   <a target="_blank">  
    <img src="https://github.com/Angryl/GitHub-tutorials/blob/main/gif/Hi.gif" width="30px" style="max-width:100%;">
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" style="max-width:100%;">
- 
+  
     
   </a>
 </h1>
