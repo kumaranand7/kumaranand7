@@ -37,7 +37,7 @@
 
 - 👋 Hi, I’m Anand Kumar Gupta
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C,C++ and JAVA Programming
+- 🌱 I Love JAVA Programming
 - 💞️Improving my programming skills with the help of graduation in MCA 
 	<br/>
 	<br/>
