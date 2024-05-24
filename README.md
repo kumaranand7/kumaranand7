@@ -36,9 +36,8 @@
 ###   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40"> <i>About</i>
 
 - 👋 Hi, I’m Anand Kumar Gupta
-- 👀 Recent MCA graduate passionate about software development with a focus on Java and front-end technologies.
-- 🌱 Eager to apply academic knowledge and practical skills in a dynamic professional environment.
-- 💞️ A quick learner, collaborative team player, and enthusiastic problem solver.
+- 👀 Recent MCA graduate.
+- 🌱 A quick learner, collaborative team player, and enthusiastic problem solver.
 - ✨ Ready to embark on a rewarding journey in the world of technology.
 	<br/>
 	<br/>
