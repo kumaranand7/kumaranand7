@@ -71,16 +71,10 @@
 </p> 
 <br>
 
-![ANAND Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=kumaranand7&custom_title=Anand%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
- 
 
+[![My activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kumaranand7&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ------- 
 Credits: [Anand Kumar Gupta](https://github.com/kumaranand7)
 
-Last Edited on: 07/09/2022                
-   
-     
-   
-   
-  
+Last Edited on: 24/05/2024
