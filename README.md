@@ -3,7 +3,7 @@
   <a target="_blank">    
     <img src="https://github.com/Angryl/GitHub-tutorials/blob/main/gif/Earth.gif" width="24px" style="max-width:100%;">
   </a>
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !  
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !   
   <a target="_blank">     
    <img src="https://github.com/Angryl/GitHub-tutorials/blob/main/gif/Hi.gif" width="30px" style="max-width:100%;">
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" style="max-width:100%;">
