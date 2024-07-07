@@ -1,4 +1,4 @@
-
+ 
 <h1 align="center">  
   <a target="_blank">    
     <img src="https://github.com/Angryl/GitHub-tutorials/blob/main/gif/Earth.gif" width="24px" style="max-width:100%;">
