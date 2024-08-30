@@ -19,7 +19,7 @@
 <img src="https://github.com/kumaranand7/kumaranand7/blob/main/result%20(1).gif?raw=true" align="center" style="width: 50%; height:50% " />
 </div> 
 <br/>
-
+ 
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=kumaranand7&label=Profile%20views&color=0e75b6&style=plastic" alt="7oSkaaa" /> 
