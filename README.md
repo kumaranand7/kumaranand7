@@ -36,7 +36,7 @@
 ###   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40"> <i>About</i>
 
 - 👋 Hi, I’m Anand Kumar Gupta
-- 👀 Recent MCA graduate.
+- 👀 Backend Developer.
 - 🌱 A quick learner, collaborative team player, and enthusiastic problem solver.
 - ✨ Ready to embark on a rewarding journey in the world of technology.
 	<br/>
