@@ -38,7 +38,7 @@
 - 👋 Hi, I’m Anand Kumar Gupta
 - 👀 Backend Developer.
 - 🌱 A quick learner, collaborative team player, and enthusiastic problem solver.
-- ✨ Ready to embark on a rewarding journey in the world of technology.
+- ✨ Enjoing my journey in the world of technology.
 	<br/>
 	<br/>
 
