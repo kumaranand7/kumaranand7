@@ -36,7 +36,7 @@
 ###   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40"> <i>About</i>
 
 - 👋 Hi, I’m Anand Kumar Gupta
-- 👀 Backend Developer.
+- 👀 Software Developer.
 - ✨ Enjoing my journey in the world of technology.
 	<br/>
 	<br/>
